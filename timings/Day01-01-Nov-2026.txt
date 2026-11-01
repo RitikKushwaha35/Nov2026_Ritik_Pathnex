@@ -1,3 +1,9 @@
 40 minutes Github
 an hour - english speaking
-an hour - study about ip address types ranges  
+an hour - study about ip address types ranges 
+
+30 minutes - learnig git init
+git add.
+git remote ......
+git global -edit
+git push 
